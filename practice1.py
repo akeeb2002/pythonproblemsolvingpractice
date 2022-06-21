@@ -1,3 +1,4 @@
+#prints out a new sorted array without any duplicate elements
 x = [4,3,2,1,1,2,6]
 print ("The original list is : " +  str(x))
   
